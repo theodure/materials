@@ -8,3 +8,5 @@
    - 算法超全学习攻略  -----labuladong    /fucking-algorithm
    - 变成小白到大神路线图 -- kamranahmedse/   developer roadmaps
    - freecodecamp ----- 里面有大量的学习视频和非常多的练习题
+   - https://github.com/bslatkin/effectivepython 这本书的在github上的资源
+   - 
